@@ -1,0 +1,18 @@
+{
+    "coupon":[
+        {
+            "cid":"OpenBakery",
+            "couponType":0,
+            "gift":{
+                "money":900
+            }
+        },
+        {
+            "cid":"CatSpring",
+            "couponType":1,
+            "gift":{
+                "money":900
+            }
+        }
+    ]
+}
