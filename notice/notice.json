@@ -1,0 +1,16 @@
+[
+    {
+        "nid":0,
+        "noticeType":0,
+        "title":["test0","test0-1"],
+        "context":["test-context0","test-context0-1"],
+        "imgUrl":"https://dongurea.github.io/image/0.png"
+    },
+    {
+        "nid":1,
+        "noticeType":1,
+        "title":["test1","test1-1"],
+        "context":["test-context1","test-context1-1"],
+        "imgUrl":"https://dongurea.github.io/image/1.png"
+    }
+]
