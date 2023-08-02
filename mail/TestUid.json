@@ -1,0 +1,20 @@
+{
+    "mail":[
+        {
+            "mid":0,
+            "mailType":0,
+            "title":"testMail0",
+            "context":"testMail-Context0",
+            "imgUrl":"https://dongurea.github.io/image/0.png",
+            "isChecked":0
+        },
+        {
+            "mid":1,
+            "mailType":1,
+            "title":"testMail1",
+            "context":"testMail-Context1",
+            "imgUrl":"https://dongurea.github.io/image/1.png",
+            "isChecked":0
+        }
+    ]
+}
